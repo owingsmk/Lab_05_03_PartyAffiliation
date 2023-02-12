@@ -8,10 +8,10 @@ public class Main {
              System.out.println("You get a Republican Elephant");
         }
         if (partyAffiliation == "D");{
-            System.out.println("You get a Democrat Donkey!”);
+            System.out.println("You get a Democrat Donkey!")
         }
         if (partyAffiliation == "I");{
-            System.out.println("You get a Independant Man!”);
+            System.out.println("You get a Independant Man!");
         }
 
     }
