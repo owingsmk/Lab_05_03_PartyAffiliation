@@ -6,11 +6,9 @@ public class Main {
 
          if (partyAffiliation == "R");{
              System.out.println("You get a Republican Elephant");
-        }
-        if (partyAffiliation == "D");{
-            System.out.println("You get a Democrat Donkey!")
-        }
-        if (partyAffiliation == "I");{
+        }if (partyAffiliation == "D");{
+            System.out.println("You get a Democrat Donkey!");
+        }if (partyAffiliation == "I");{
             System.out.println("You get a Independant Man!");
         }
 
