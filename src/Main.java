@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("What is your party? Use: R, D, or I: ");
-         String partyAffiliation = "D";
+         String partyAffiliation = "R";
 
          if (partyAffiliation.equals("R")){
              System.out.println("You get a Republican Elephant");
